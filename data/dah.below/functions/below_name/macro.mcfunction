@@ -1,0 +1,2 @@
+#$(number) $(format) $(ef)
+$scoreboard players display numberformat @s dah.belowName fixed [{"text":"+","font":"dah.below:icon","color": "white"},$(format),{"text":"$(number)","font":"default"},"$(ef)"]
